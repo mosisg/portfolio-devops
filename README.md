@@ -39,10 +39,36 @@ Développeur en transition vers DevOps, passionné par l'automatisation et les i
 - Préparation environnement Docker
 - Documentation complète setup
 
-## 📞 Contact
-- Email : mosisg7@gmail.com
-- GitHub : [mosisg](https://github.com/mosisg)
-- Portfolio : [portfolio-devops](https://github.com/mosisg/portfolio-devops)
+# 🌩️ Infrastructure AWS - DevOps Journey
+
+## 📁 Structure
+aws-infrastructure/
+├── environments/          # Configurations par environnement
+│   ├── dev/               # Développement
+│   ├── staging/           # Pré-production
+│   └── prod/              # Production
+├── modules/               # Modules Terraform réutilisables
+│   ├── vpc/               # Réseau virtuel
+│   ├── ec2/               # Instances compute
+│   └── s3/                # Stockage
+├── scripts/               # Scripts utilitaires
+└── docs/                  # Documentation
+
+## 🎯 Objectifs Semaine 2
+- [x] Installation AWS CLI + Terraform
+- [ ] Création compte AWS Free Tier
+- [ ] Configuration IAM user sécurisé
+- [ ] Premier déploiement EC2 + S3
+- [ ] Infrastructure as Code complète
+
+## 🔧 Prérequis
+- AWS CLI v2.27.3 ✅
+- Terraform v1.12.1 ✅
+- Ubuntu 24.04 ✅
+
+## 📚 Ressources
+- [AWS Free Tier](https://aws.amazon.com/free/)
+- [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws)
 
 ---
-**🚀 Jour 1/7 de la Semaine 1 - Fondations solides établies !**
+**🚀 Prêt pour la conquête du cloud !**
