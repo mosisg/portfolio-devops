@@ -66,9 +66,27 @@ aws-infrastructure/
 - Terraform v1.12.1 ✅
 - Ubuntu 24.04 ✅
 
-## 📚 Ressources
-- [AWS Free Tier](https://aws.amazon.com/free/)
-- [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws)
+## 📈 Progression - Semaine 1 (JOUR 2 TERMINÉ !)
+- [x] Setup environnement Ubuntu ⭐⭐⭐
+- [x] Configuration Git + GitHub + clés SSH ⭐⭐⭐
+- [x] Premier repository portfolio-devops ✅
+- [x] Configuration Linux avancée (users, permissions, groupes) ⭐⭐⭐
+- [x] Configuration réseau & firewall UFW ⭐⭐
+- [x] Installation & configuration Nginx reverse-proxy ⭐⭐⭐
+- [x] Scripts bash automation (backup + health-check) ⭐⭐⭐
+- [x] Installation AWS CLI v2.27.3 + Terraform v1.12.1 ⭐⭐⭐
+- [x] Structure infrastructure AWS complète ✅
+- [ ] Finalisation semaine 1 (J3-J7)
 
----
-**🚀 Prêt pour la conquête du cloud !**
+## 🛠️ Outils Maîtrisés (Jour 2)
+- **Scripts Bash** : Automatisation, monitoring ⭐⭐⭐
+- **AWS CLI** : v2.27.3 installé et configuré ⭐⭐
+- **Terraform** : v1.12.1 prêt pour IaC ⭐⭐
+
+## 📂 Projets Actifs
+1. **portfolio-devops** - Documentation parcours + scripts utiles
+2. **aws-infrastructure** - Infrastructure as Code (préparation S2)
+
+## 🔧 Scripts Développés
+- `scripts/backup.sh` - Backup automatique configurations
+- `scripts/health-check.sh` - Monitoring système temps réel
