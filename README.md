@@ -90,3 +90,20 @@ aws-infrastructure/
 ## 🔧 Scripts Développés
 - `scripts/backup.sh` - Backup automatique configurations
 - `scripts/health-check.sh` - Monitoring système temps réel
+## 📈 Progression - Semaine 1 (JOUR 3 TERMINÉ !)
+- [x] Setup environnement Ubuntu ⭐⭐⭐
+- [x] Configuration Git + GitHub + clés SSH ⭐⭐⭐
+- [x] Premier repository portfolio-devops ✅
+- [x] Configuration Linux avancée (users, permissions, groupes) ⭐⭐⭐
+- [x] Configuration réseau & firewall UFW ⭐⭐⭐
+- [x] Installation & configuration Nginx reverse-proxy ⭐⭐⭐
+- [x] Scripts bash automation (backup + health-check) ⭐⭐⭐
+- [x] Installation AWS CLI v2.27.3 + Terraform v1.12.1 ⭐⭐⭐
+- [x] SSL/TLS + HTTPS avec certificats auto-signés ⭐⭐⭐
+- [x] Redirection HTTP→HTTPS automatique ⭐⭐⭐
+- [x] Tests complets environnement (monitoring avancé) ⭐⭐⭐
+- [ ] Finalisation semaine 1 (J4-J7)
+
+## 🛠️ Compétences Actuelles (Jour 3)
+- **Web Security** : SSL/TLS, HTTPS, redirections ⭐⭐⭐
+- **System Monitoring** : Health-checks automatisés ⭐⭐⭐
